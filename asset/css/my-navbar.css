@@ -1,0 +1,62 @@
+.body {
+	font-family: 'Nanum Gothic Coding', monospace;
+}
+/* Default CSS for every document */
+.my-navbar {
+	width: 100%;
+	height: 40px;
+	background-color: white;
+}
+.navbar-container {
+	width: 1000px;
+	height: 40px;
+	position: relative;
+	left: 50%;
+	margin-left: -500px;
+}
+.brand {
+	position: relative;
+	line-height: 40px;
+}
+.alerm {
+	position: absolute;
+	top: 7px;
+	left: 925px;
+}
+.account {
+	position: absolute;
+	top: 4px;
+	left: 977px;
+}
+.post-menus {
+	height: 60px;
+	width: 1000px;
+}
+.post-menus>.nav>.nav-item:hover {
+	border-bottom: 3px solid #DFDFDF!important;
+}
+.post-menus>.nav>.nav-item {
+	width: 25%;
+}
+.post-menus>.nav>.nav-active {
+	border-bottom: 3px solid #DFDFDF!important;
+}
+.school-info {
+	position: absolute;
+	bottom: -32px;
+	right: 10px;
+}
+a {
+    color: black!important;
+}
+a:hover {
+	color: black!important;
+	text-decoration: underline;
+}
+.user_profile {
+	padding: 15px;
+	height: 80px;
+}
+.user_profile>p {
+	color: gray;
+}

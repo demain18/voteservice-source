@@ -1,0 +1,62 @@
+.background-img1 {
+    width: 100%;
+    height: 1300px;
+    background-image: url("/asset/img/login-wallpaper.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+}
+.register-grid {
+	width: 600px;
+	background-color: rgba(255,255,255,0.34);
+	border-radius: 5px;
+	filter: blur(0px);
+	padding: 50px;
+}
+.register-grid>input {
+	height: 20px!important;
+}
+.radio-inline {
+	width: 80px;
+}
+.input-group-text-td1 {
+	margin-right: 10px;
+}
+.registern-grid>h3 {
+	margin-bottom: 20px;
+}
+.custom-select {
+	background-color: rgba(255,255,255,0.2)!important;
+}
+.btn-td1 {
+	width: 150px;
+	color: white!important;
+	border: 1px solid #0C6DD7!important;
+	background-color: #0C6DD7!important;
+	position: absolute;
+	top: 10px;
+	left: 350px;
+}
+.grid-td1 {
+	width: 1187px;
+	position: relative;
+	left: 50%;
+	margin-top: 200px;
+	margin-left: -580px!important;
+}
+.grid-td2 {
+	margin: 50px;
+}
+.grid-td2>h5 {
+	color: white;
+	margin-top: 30px;
+}
+.grid-td2>.index-image {
+	position: relative;
+	top: 50px;
+	left: 40px;
+}
+.account {
+	position: absolute;
+	top: 8px!important;
+	left: 981px!important;
+}

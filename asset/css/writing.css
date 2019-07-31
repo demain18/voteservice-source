@@ -1,0 +1,80 @@
+.body {
+    z-index: 0;
+}
+.background-grid1 {
+    width: 100%;
+    height: 1500px;
+    background-color: #F5F5F5;
+	/* background-image: url("asset/img/background-img02_dep2.jpg");
+    background-size: cover;
+    background-attachment: fixed; */
+}
+.background-color01 {
+	width: 100%;
+	height: 400px;
+	background: #56CCF2;  /* fallback for old browsers */
+	background: -webkit-linear-gradient(to right, #2F80ED, #56CCF2);  /* Chrome 10-25, Safari 5.1-6 */
+	background: linear-gradient(to right, #2F80ED, #56CCF2); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+	position: absolute;
+	top: 40px;
+	
+}
+.navbar-custom {
+    background-color: #ffffff;
+    z-index: 3!important;
+}
+.container {
+    width: 1000px;
+}
+.postlist {
+    width: 1000px;
+    height: 800px;
+    background-color: #FFFFFF;
+    z-index: 3;
+    position: relative;
+    left: 50%;
+    margin-left: -500px;
+    top: 50px;
+    z-index: 0;
+	box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.2);
+	padding: 20px;
+}
+.writing-rules {
+	width: 100%;
+	border: 1px solid #DBDBDB;
+	border-radius: 5px;
+	padding: 20px;
+	padding-bottom: 5px;
+}
+.td1 {
+	margin-top: 10px!important;
+}
+.writing-rules>p {
+	font-size: 15px;
+	line-height: 20px;
+	color: #565656;
+	margin-top: -8px;
+}
+.margin1 {
+	margin-top: 30px;
+}
+.input1 {
+	width: 400px;
+}
+.td2 {
+	margin-top: 20px;
+}
+.btn-write1 {
+	width: 120px;
+	background-color: #3F51B5!important;
+	position: relative;
+	top: 60px;
+	left: 475px;
+}
+.btn-write2 {
+	width: 120px;
+	background-color: #FFFFFF!important;
+	color: black!important;
+	position: relative;
+	left: 350px;
+}
